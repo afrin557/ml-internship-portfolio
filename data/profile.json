@@ -1,0 +1,64 @@
+{
+  "name": "Afrin Falila J",
+  "headline": "Machine Learning Intern | AI Enthusiast | Full-Stack Learner",
+  "location": "Chennai, India",
+  "about": "I am a motivated student interested in machine learning, artificial intelligence, and practical software development. I enjoy turning data and ideas into usable applications.",
+  "education": [
+    {
+      "degree": "BCA",
+      "institution": "Mohammad Sathak Arts and Science Collage",
+      "year": "2024–2027",
+      "details": "Relevant coursework: Machine Learning, Data Structures, , Web Technologic."
+    }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "HTML",
+    "SQL Basic"
+  ],
+  "internships": [
+    {
+      "role": "Machine Learning Intern",
+      "company": "Gradtwin",
+      "period": "JUN 2026 – SEP 2026",
+      "details": "Worked on data preparation, model experimentation, evaluation, and ML-focused web integration."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Created a website about Data Management",
+      "description": "Data Management is the process of collecting, organizing, storing, and protecting data efficiently. A Data Management website helps users easily store, access, update, and manage information securely.",
+      "technologies": ["Python", "scikit-learn", "Pandas", "Flask"]
+    },
+    {
+      "name": "Portfolio AI Assistant",
+      "description": "An AI chatbot embedded in a responsive portfolio website that answers questions using curated profile information.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Flask", "OpenAI API"]
+    },
+    {
+      "name": "Image Classification Mini Project",
+      "description": "A learning project exploring image preprocessing and supervised classification with a small labeled dataset.",
+      "technologies": ["Python", "TensorFlow", "NumPy", "Matplotlib"]
+    }
+  ],
+  "certifications": [
+    "Machine Learning Fundamentals — Add issuer",
+    "Python Programming — Add issuer",
+    "Web Development — Add issuer"
+  ],
+  "achievements": [
+    "praticipated in hackthon",
+    "done project ",
+    "attened workshop"
+  ],
+  "contact": {
+    "email": "afrinfalila07@gmail.com",
+    "phone": "+91 6381885061",
+    "city": "Chennai, India"
+  },
+  "links": {
+    "github": "https://github.com/afrin",
+    "linkedin": "www.linkedin.com/in/afrinfalila05"
+  }
+}
