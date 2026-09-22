@@ -159,11 +159,7 @@ def chat():
 
         # Keep the chatbot functional if the API/network has a temporary issue.
         return jsonify({
-            "reply": (
-                "The AI service could not be reached right now. "
-                "Here is the portfolio information I can provide locally:\n\n"
-                + local_fallback(message)
-            ),
+            "reply": local_fallback(message),
             "mode": "fallback",
             "error": type(exc).__name__,
         })
